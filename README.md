@@ -1,88 +1,90 @@
-# TanStack Start Application
+# Hi, I'm Deepika Choudhary 👋
 
-A modern, full-stack React application built with [TanStack Start](https://tanstack.com/start). Designed for type-safe routing, server-side rendering, and a polished developer experience.
+**Full-Stack Developer | AI Engineer | ML Enthusiast**
 
-## Tech Stack
+Computer Science undergraduate passionate about building AI-driven applications and end-to-end web solutions. I enjoy turning real-world problems into scalable products using Python, React, Node.js, and modern AI/ML tools.
 
-- **Framework:** [TanStack Start v1](https://tanstack.com/start) — full-stack React with SSR/SSG and server functions
-- **Build Tool:** [Vite 8](https://vitejs.dev/) for fast development and production builds
-- **UI Library:** [React 19](https://react.dev/)
-- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/) with CSS theme variables and `oklch` tokens
-- **Components:** [shadcn/ui](https://ui.shadcn.com/) primitives built on [Radix UI](https://www.radix-ui.com/)
-- **State & Data:** [TanStack Query](https://tanstack.com/query) for server-state management
-- **Routing:** [TanStack Router](https://tanstack.com/router) with file-based route generation
-- **Forms & Validation:** [React Hook Form](https://react-hook-form.com/) + [Zod](https://zod.dev/)
-- **Icons:** [Lucide React](https://lucide.dev/)
-- **Charts:** [Recharts](https://recharts.org/)
-- **Notifications:** [Sonner](https://sonner.emilkowal.ski/)
-
-## Features
-
-- File-based routing with automatic route tree generation
-- Type-safe server functions via `createServerFn`
-- SSR-ready shell layout in `src/routes/__root.tsx`
-- Dark mode tokens ready via `oklch` CSS variables
-- Pre-configured ESLint + Prettier for consistent code style
-- shadcn/ui components available under `src/components/ui/`
-
-## Quick Start
-
-1. **Install dependencies**
-
-   ```bash
-   bun install
-   ```
-
-2. **Start the development server**
-
-   ```bash
-   bun dev
-   ```
-
-3. **Open the app**
-
-   Navigate to [http://localhost:8080](http://localhost:8080).
-
-## Available Scripts
-
-| Script         | Description                              |
-| -------------- | ---------------------------------------- |
-| `bun dev`      | Start the development server             |
-| `bun build`    | Build for production                     |
-| `bun build:dev`| Build in development mode                |
-| `bun preview`  | Preview the production build locally     |
-| `bun lint`     | Run ESLint across the project            |
-| `bun format`   | Format files with Prettier               |
-
-## Project Structure
-
-```text
-src/
-├── components/ui/      # shadcn/ui components
-├── hooks/              # Reusable React hooks
-├── lib/                # Utilities and helpers
-├── routes/             # TanStack file-based routes
-│   ├── __root.tsx      # Root layout with providers
-│   └── index.tsx       # Home page
-├── server.ts           # Server configuration
-├── start.ts            # Application startup
-└── styles.css          # Tailwind theme tokens
-```
-
-## Conventions
-
-- Routes are defined in `src/routes/` using the [TanStack Router file convention](https://tanstack.com/router/latest/docs/framework/react/routing/file-based-routing).
-- Server functions are created with `createServerFn` from `@tanstack/react-start`.
-- Colors and themes use semantic CSS tokens in `src/styles.css`; avoid hardcoded hex values in components.
-- Import UI components from `@/components/ui/<component>`.
-
-## Resources
-
-- [TanStack Start Docs](https://tanstack.com/start/latest/docs/framework/react/overview)
-- [TanStack Router Docs](https://tanstack.com/router/latest/docs/framework/react/overview)
-- [Tailwind CSS v4 Docs](https://tailwindcss.com/docs/v4-beta)
-- [shadcn/ui Docs](https://ui.shadcn.com/docs)
+📍 Chennai, India • 🎓 B.Tech CSE, SRM University (2023–2027)
 
 ---
 
-Built with [Lovable](https://lovable.dev).
+## 🚀 About Me
+
+- Building full-stack apps with **React.js**, **Node.js/Express**, and **MongoDB**
+- Developing AI/GenAI solutions with **Python**, **LLMs**, and **FastAPI**
+- Experienced in **data analysis**, **machine learning pipelines**, and **data visualization**
+- Active hackathon participant and collaborative team player
+- Currently exploring **Agentic AI**, **LLM-powered automation**, and **scalable backend systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python • C++ • SQL • JavaScript • HTML/CSS
+
+### Frontend
+- React.js • HTML5 • CSS3 • Responsive Web Design • UI/UX Design
+
+### Backend & Databases
+- Node.js • Express.js • FastAPI • MongoDB
+
+### AI / ML / Data
+- Scikit-learn • Pandas • NumPy • Data Preprocessing • Data Visualization
+- LLM Fundamentals • Prompt Engineering • Agentic AI • Gemini API
+
+### Tools & Platforms
+- Git & GitHub • VS Code • Jupyter Notebook • Google Colab
+
+### Core CS
+- Data Structures & Algorithms • Database Management Systems • Cybersecurity Basics
+
+---
+
+## 💼 Featured Projects
+
+### 🤖 Smart Email AI Agent
+- AI-powered email assistant using **Python**, **Gemini API**, and **LLMs**
+- Generates, summarizes, and drafts context-aware email responses
+- Integrated **Gmail API** and built backend services with **FastAPI**
+
+### 🌡️ AI-Powered Urban Heat Vulnerability Monitoring
+- Collected and analyzed environmental datasets using **Python**, **Pandas**, and **NumPy**
+- Applied **Scikit-learn** ML models and visualization techniques to classify high-risk heat zones
+- Supports data-driven urban planning decisions
+
+### 🌾 AI-Powered Crop Yield Prediction and Optimization
+- Built a crop yield prediction system using **Python**, **Pandas**, **NumPy**, and **Scikit-learn**
+- Analyzed historical weather, soil, and crop datasets
+- Performed preprocessing, feature engineering, and model evaluation for yield optimization
+
+---
+
+## 🏆 Hackathon Experience
+
+### Smart India Hackathon 2025 — Team Member & UI/UX Designer
+- Developed a farming assistance platform for crop monitoring, weather prediction, and soil analysis
+- Built the frontend with **React.js** and backend with **Node.js/Express.js** + **MongoDB**
+
+### 24-Hour Cyberthon 2025 — Team Member
+- Built a full-stack **Social Media Privacy Checker**
+- Implemented privacy risk analysis, permission scanning, data leak detection, and privacy scoring
+- Tech stack: **React.js**, **Node.js/Express**, **MongoDB**
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) *(update this link)*
+- 🐙 [GitHub](https://github.com/Deepikachoudhary05)
+- 📧 [Email](mailto:YOUR_EMAIL@example.com) *(update this link)*
+
+---
+
+## 📈 GitHub Stats
+
+![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepikachoudhary05&show_icons=true&theme=default)
+
+---
+
+> *“Driven by curiosity, powered by code, and focused on building solutions that matter.”*
