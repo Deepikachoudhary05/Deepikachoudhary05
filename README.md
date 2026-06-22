@@ -75,9 +75,9 @@ Computer Science undergraduate passionate about building AI-driven applications 
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) *(update this link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepika54)
 - 🐙 [GitHub](https://github.com/Deepikachoudhary05)
-- 📧 [Email](mailto:YOUR_EMAIL@example.com) *(update this link)*
+- 📧 [Email](mailto:deepikachoudhary7358@gmail.com
 
 ---
 
