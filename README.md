@@ -1,10 +1,14 @@
-# Hi, I'm Deepika Choudhary 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Deepika%20Choudhary&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" alt="header banner" />
+</p>
 
-**Full-Stack Developer | AI Engineer | ML Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI+Engineer;Machine+Learning+Enthusiast;Building+AI+Powered+Solutions&center=true&width=500&height=45&color=58A6FF&size=22" alt="typing animation" />
+</p>
 
-Computer Science undergraduate passionate about building AI-driven applications and end-to-end web solutions. I enjoy turning real-world problems into scalable products using Python, React, Node.js, and modern AI/ML tools.
-
-📍 Chennai, India • 🎓 B.Tech CSE, SRM University (2023–2027)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Deepikachoudhary05&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
