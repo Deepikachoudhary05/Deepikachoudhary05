@@ -83,7 +83,22 @@ Computer Science undergraduate passionate about building AI-driven applications 
 
 ## 📈 GitHub Stats
 
-![Deepika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepikachoudhary05&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepikachoudhary05&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Deepika's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepikachoudhary05&theme=default&hide_border=true" alt="GitHub streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepikachoudhary05&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deepikachoudhary05&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepikachoudhary05&theme=minimal&hide_border=true" alt="Contribution graph" />
+</p>
 
 ---
 
