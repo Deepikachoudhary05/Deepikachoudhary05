@@ -100,4 +100,6 @@ Computer Science undergraduate passionate about building AI-driven applications 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepikachoudhary05&theme=minimal&hide_border=true" alt="Contribution graph" />
 </p>
 
+---
+
 > *“Driven by curiosity, powered by code, and focused on building solutions that matter.”*
