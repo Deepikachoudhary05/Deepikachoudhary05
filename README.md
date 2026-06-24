@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About M
+## 🚀 About Me
 
 - Building full-stack apps with **React.js**, **Node.js/Express**, and **MongoDB**
 - Developing AI/GenAI solutions with **Python**, **LLMs**, and **FastAPI**
